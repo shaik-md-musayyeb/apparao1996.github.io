@@ -1,0 +1,12 @@
+*
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color:skyblue;
+    margin-top: 10px;
+}
+a{
+    text-decoration: none;
+}
